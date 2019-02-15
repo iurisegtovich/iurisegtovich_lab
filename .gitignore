@@ -1,0 +1,5 @@
+build/
+dist/
+python_luri_iurisegtovich.egg-info/
+
+**/*.pyc
